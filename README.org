@@ -1,0 +1,10 @@
+* sucle
+
+Common Lisp Voxel Game Engine
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/terminal625/sucle.git   |
+| commit  | 258be4a  |
+| systems | sucle |
+|---------+-------------------------------------------|
+
